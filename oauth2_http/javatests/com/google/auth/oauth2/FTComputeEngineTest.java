@@ -32,6 +32,7 @@ public final class FTComputeEngineTest {
     @Test
     public void refreshTest() throws Exception {
 
+        // test keychain
 //        String accessToken = "1/MkSJoj1xsli0AccessToken_NKPY2";
 //        String accountEmail = "mail@mail.com";
 //
